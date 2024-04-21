@@ -29,12 +29,12 @@ async def check_live():
                 print('Stream has gone live.')
 
                 for webhook in webhooks:
-                    webhook.send('Stream has gone live.')
+                    await webhook.send('Stream has gone live.')
             else:
                 print('Stream has gone offline.')
 
                 for webhook in webhooks:
-                    webhook.send('Stream has gone offline.')
+                    await webhook.send('Stream has gone offline.')
     else:
         if check_live.is_live:
             print('Stream is live.')

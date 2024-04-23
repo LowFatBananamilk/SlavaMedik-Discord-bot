@@ -1,3 +1,61 @@
 twitch_user_ID: 
 discord_webhook_URLs:
-  - 
+  -
+
+embed:
+  author:
+    name:
+      - 🎉 Attention Panda Patients! 🎉
+      - 🚨 Panda Alert! 🚨
+      - 🐾 Paws Up, Panda Squad! 🐾
+      - 🎮 Panda Party Alert! 🎉
+      - 🌟 Attention Patients! 🐾
+      - 🎮 Panda Clinic Now Open! 🏥🐼
+      - 🌟 Welcome to the Panda Clinic! 🐼🏥
+      - 🎮 Step into the Panda Clinic! 🐼🏥
+      - 🌟 Get Ready for Your Checkup at the Panda Clinic! 🐼🏥
+    url:
+      -
+    icon_url:
+      - 
+
+  thumbnail: "{user_pfp}"
+
+  title:
+    - "🔴 LIVE NOW:\n{title}"
+  url: "{stream_url}"
+  description:
+    - "🐼 Guess who's live on Twitch? That's right, your favorite bamboo muncher, {user_name}! 🎮🎥\n\n🌟 Join the panda party as we dive into some gaming adventures and hilarity. Don't miss out on the fun! 🎉\n\nTags: {tags}"
+    - "🐼 Brace yourselves, fellow bamboo enthusiasts! {user_name} is live and ready to rock the gaming world! 🎮🌟\n\n🎉 Swing by the stream for some pandemonium and laughter. It's going to be a bamboo-tiful time! 🎉🐾\n\nTags: {tags}"
+    - "🌟 It's that time again - {user_name} is LIVE and kicking off an epic gaming journey! Get ready to join the panda patients! 🎉🐼\n\n🔥 Dive into the stream for endless laughs, epic fails, and unbe-leaf-able moments! 🍃🎮\n\nTags: {tags}"
+    - "🐼 Hey there, panda patients! The gaming clinic is open, and {user_name} is leading the charge in \"{game_name}\"! 🎮🌟\n\n🎉 Swing by the stream for some epic gameplay and panda-tastic time. Let's turn this into a bamboo bash to remember! 🐾🎉\n\nTags: {tags}"
+    - "🎮 Get your game faces on because {user_name} is live and ready to rumble in \"{game_name}\"! It's time to unleash the panda power! 🐼💥\n\n🎉 Join us for a wild ride filled with gaming adventures and enough panda puns to make you groan! 🎮🌟\n\nTags: {tags}"
+    - "🐾 Attention, lovely visitors! Dr. {user_name} is in the house, ready to diagnose your gaming needs and prescribe some serious fun in \"{game_name}\"! 🎮🌟\n\n🩺 Step into our virtual clinic for a checkup of laughter, healing gameplay, and a dose of panda-tastic entertainment. Let's cure those boredom blues together! 🐼💊\n\nTags: {tags}"
+    - "🎮 Prepare for a consultation like no other! Dr. {user_name} is here to treat your gaming woes with a healthy dose of \"{game_name}\" fun! 🩺💥\n\n🎉 Join our bustling clinic for an unforgettable session of gameplay, laughter, and panda puns galore. Your prescription for a great time starts now! 🎮🌟\n\nTags: {tags}"
+    - "🐾 Welcome, dear visitors, to the Panda Clinic, where Dr. {user_name} is on duty to cure your gaming blues with a healthy dose of \"{game_name}\"! 🎮🌟\n\n💼 Our clinic is open for gaming consultations, laughter therapy, and a prescription of pure panda joy. Let's embark on a healing journey together! 🩺🐾\n\nTags: {tags}"
+    - "🎮 Ready for your gaming checkup? Dr. {user_name} is here to ensure your dose of \"{game_name}\" is just what the doctor ordered! 🩺💥\n\n🎉 Join us in the Panda Clinic for a session of gaming therapy, laughter, and a panda's touch of magic. Your cure for boredom is just a stream away! 🎮🌟\n\nTags: {tags}"
+    - "🐾 Calling all gaming patients! Dr. {user_name} is here to administer the perfect remedy for your gaming needs in \"{game_name}\"! 🎮🌟\n\n💼 Step into our cozy clinic for a dose of laughter, excitement, and a touch of panda charm. Let's embark on a gaming adventure together! 🩺🐾\n\nTags: {tags}"
+    - "🎮 Dr. {user_name} is in the house and ready to diagnose your gaming cravings with a healthy dose of \"{game_name}\" excitement! 🩺💥\n\n🎉 Join us in the Panda Clinic for a session of gaming therapy, panda puns, and unforgettable moments.  🎮🌟\n\nTags: {tags}"
+  
+  image: "{thumbnail_url}"
+
+  color: 0x6441a5
+
+  footer:
+    text:
+      - 🚪 The clinic doors are open - come on in and let's start the treatment! 🐾🎮
+      - 💊 Your gaming prescription awaits - don't keep the doctor waiting! 🐼🎮
+      - 💼 The clinic doors are open - step right in and let's make today's session one to remember! 🐾🎮
+      - 🚪 Don't keep the doctor waiting - come on in and let's make some memories! 🐼🎮
+      - 💊 Pandas, unite! Let's heal the world, one game at a time! See you in the clinic! 🐾🎮
+      - 🚑 Don't miss your appointment with joy - hurry in and let's make some gaming miracles happen! 🐾🎉
+      - 🍃 Let's create some bamboo-tiful memories together! See you in the stream! 🐼🎮
+      - 🐼 Don't be bamboo-zled by missing out - hop in and join the fun! 🎮🎉
+      - 🍃 Let's create some bamboo-tiful memories together! See you in the stream! 🐼🎮
+      - 🐼 Don't be bamboo-zled by missing out - hop in and join the fun! 🎮🎉
+      - 🎉 Pandas unite! Let's make this stream one for the bamboo history books! 🐼🎮
+      - 🎮 Panda power activate! Let's show 'em how it's done! 🐼💥
+      - 🐾 Get ready for some panda-tastic entertainment! Let's roll! 🐼🎮
+    icon_url:
+      -
+    
